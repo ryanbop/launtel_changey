@@ -1,8 +1,6 @@
 # launtel_changey
 changey is now a word :>
 
-Is this readme <h1>shown</h1> in <p>html</p>?
-
 <h1>Gather Information</h1>
 For all this to work you will need to supply the following information, some of this comes from you the rest comes from NBNCo (which can be gather through Launtel).
 
