@@ -6,7 +6,7 @@ For all this to work you will need to supply the following information, some of 
 
 <h2>Your Variables</h2>
 $username = ""<br>
-$password = ""
+$password = "" #Yes I know that I am storing the password in plain text. BUT, this is no where near a final script yet.
 
 <h2>NBNCo Variables</h2>
 <h3>Service ID</h3>
