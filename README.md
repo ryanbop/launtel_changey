@@ -11,12 +11,13 @@ $username = ""
 $password = ""
 
 <h2>NBNCo Variables</h2>
+<h3>Service ID</h3>
 This is a 5 digit number (or at least mine is)
 $service_id = "12345"
-
+<h3>AVC ID</h3>
 This is <insert meaning for AVC here> ID
 $avc_id = "AVC123456789012"
-
+<h3>Location ID</h3>
 This is your location ID
 $location_id = "LOC"
 
