@@ -5,7 +5,7 @@ changey is now a word :>
 For all this to work you will need to supply the following information, some of this comes from you the rest comes from NBNCo (which can be gather through Launtel).
 
 <h2>Your Variables</h2>
-$username = ""
+$username = ""<br>
 $password = ""
 
 <h2>NBNCo Variables</h2>
