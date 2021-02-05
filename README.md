@@ -30,6 +30,9 @@ The PSID is what actually changes the speed. Psid/Sid is the order number in Lau
 <li>100/20 = 829</li>
 <li>nbn50 = 824</li>
 <li>nbn25 = 823</li>
+Fixed Wireless
+<li>FW25/5 = 812</li>
+<li>FW+75/10 = 821</li>
 $psid = ""
 
 <h2>How to get the info</h2>
