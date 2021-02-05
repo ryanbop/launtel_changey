@@ -48,6 +48,11 @@ The PSID is what actually changes the speed. Psid/Sid is the order number in Lau
 <li>100/20 = 827</li>
 <li>nbn50 = 816</li>
 <li>nbn25 = 814</li>
+<h4>FTTN</h4>
+<li>100/40 = </li>
+<li>100/20 = </li>
+<li>nbn50 = </li>
+<li>nbn25 = </li>
 
 $psid = ""
 
