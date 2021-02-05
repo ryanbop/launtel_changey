@@ -2,25 +2,25 @@
 changey is now a word :>
 
 <h1>Gather Information</h1>
-For all this to work you will need to supply the following information, some of this comes from you the rest comes from NBNCo (which can be gathed through Launtel).
+For all this to work you will need to supply the following information, some of this comes from you the rest comes from NBNCo (which can be gathered through Launtel).
 
 <h2>Your Variables</h2>
 $username = ""<br>
-$password = "" #Yes I know that I am storing the password in plain text. BUT, this is no where near a final script yet.
+$password = "" #Yes I know that I am storing the password in plain text. BUT, this is nowhere near a final script yet.
 
 <h2>NBNCo Variables</h2>
 <h3>Service ID</h3>
-This is should a 5 digit number.<br>
+This should a 5 digit number.<br>
 $service_id = "12345"
 <h3>AVC ID</h3>
-This is your Active Virtual Circuit ID. I believe this links to your nbn Modem.<br>
+This is your Active Virtual Circuit ID. I believe this links to your NBN Modem.<br>
 $avc_id = "AVC123456789012"
 <h3>Location ID</h3>
 This is your location ID, it links to your physical property?<br>
 $location_id = "LOC123456789012"
 
 <h2>This is important</h2>
-This is the part that needs to change between the weekday version and the weekend version of the script (alternativly, you could Launtel_DateChanger.ps1). 
+This is the part that needs to change between the weekday version and the weekend version of the script (alternatively, you could Launtel_DateChanger.ps1). 
 <h3>PSID</h3>
 The PSID is what actually changes the speed. Psid/Sid is the order number in Launtel's database.
 <h4>FTTP</h4>
@@ -61,7 +61,7 @@ $psid = ""
 <ol>Navigate to <a href="https://residential.launtel.net.au/services">https://residential.launtel.net.au/services</a> and sign in<br></ol>
 <ol>Then click the "Modify Service" button<br></ol>
 <ol>Choose a speed tier (e.g. nbn50) and press "Looks great - update it!"<br></ol>
-<ol>On this page pay careful attention to the url as it contains all the information you'll need for the variables (execpt your username and password).<br></ol>
+<ol>On this page pay careful attention to the url as it contains all the information you'll need for the variables (except your username and password).<br></ol>
 <ol>The URL should look similar to this <a href="https://residential.launtel.net.au/confirm_service?psid=$($psid)&unpause=0&service_id=$($service_id)&upgrade_options=&avcid=$($avc_id)&locid=$($location_id)">"https://residential.launtel.net.au/confirm_service?psid=$($psid)&unpause=0&service_id=$($service_id)&upgrade_options=&avcid=$($avc_id)&locid=$($location_id)"</a> (the variable names will actually be what you want to copy).<br></ol>
 DO NOT CLICK CONFIRM!
 
