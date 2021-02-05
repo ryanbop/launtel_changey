@@ -2,7 +2,7 @@
 changey is now a word :>
 
 <h1>Gather Information</h1>
-For all this to work you will need to supply the following information, some of this comes from you the rest comes from NBNCo (which can be gather through Launtel).
+For all this to work you will need to supply the following information, some of this comes from you the rest comes from NBNCo (which can be gathed through Launtel).
 
 <h2>Your Variables</h2>
 $username = ""<br>
