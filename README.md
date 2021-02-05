@@ -27,7 +27,7 @@ The PSID is what actually changes the speed. Psid/Sid is the order number in Lau
 <li>250/100</li>
 <li>500/200</li>
 <li>1000/400</li>
-<h4>HFC compatible (if you are in a lucky area)</li>
+<h4>HFC compatible (if you are in a lucky area)</h4>
 <li>1000/50 = 833</li>
 <li>400/50 = 837</li>
 <li>250/25 = 831</li>
