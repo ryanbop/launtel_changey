@@ -35,7 +35,8 @@ Navigate to <a href="https://residential.launtel.net.au/services">https://reside
 Then click the "Modify Service" button<br>
 Choose a speed tier (e.g. nbn50) and press "Looks great - update it!"<br>
 On this page pay careful attention to the url as it contains all the information you'll need for the variables (execpt your username and password).<br>
-  The URL should look similar to this <a href="https://residential.launtel.net.au/confirm_service?psid=$($psid)&unpause=0&service_id=$($service_id)&upgrade_options=&avcid=$($avc_id)&locid=$($location_id)">"https://residential.launtel.net.au/confirm_service?psid=$($psid)&unpause=0&service_id=$($service_id)&upgrade_options=&avcid=$($avc_id)&locid=$($location_id)"</a> (the variable names will actually be what you want to copy).
+  The URL should look similar to this <a href="https://residential.launtel.net.au/confirm_service?psid=$($psid)&unpause=0&service_id=$($service_id)&upgrade_options=&avcid=$($avc_id)&locid=$($location_id)">"https://residential.launtel.net.au/confirm_service?psid=$($psid)&unpause=0&service_id=$($service_id)&upgrade_options=&avcid=$($avc_id)&locid=$($location_id)"</a> (the variable names will actually be what you want to copy).<br>
+DO NOT CLICK CONFIRM!
 
 <h1>So, In the end you'll have</h1>
 <li>$Service_ID = "12345"</li>
