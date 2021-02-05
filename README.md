@@ -51,3 +51,7 @@ DO NOT CLICK CONFIRM!
 and..
 <li>$username</li>
 <li>$password</li>
+
+
+<h1>Running the code</h1>
+Once you have setup the code with all of your variables, run it and the raw HTML content will be dumped into C:\users\*username*\downloads. This will be removed eventually, I was using it for testing.
