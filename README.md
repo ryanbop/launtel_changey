@@ -10,7 +10,7 @@ $password = "" #Yes I know that I am storing the password in plain text. BUT, th
 
 <h2>NBNCo Variables</h2>
 <h3>Service ID</h3>
-This is a 5 digit number (or at least mine is)<br>
+This is should a 5 digit number<br>
 $service_id = "12345"
 <h3>AVC ID</h3>
 This is your Active Virtual Circuit ID. I believe this links to your nbn Modem.<br>
