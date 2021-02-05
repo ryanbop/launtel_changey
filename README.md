@@ -27,7 +27,7 @@ The PSID is what actually changes the speed. Psid/Sid is the order number in Lau
 <li>250/100</li>
 <li>500/200</li>
 <li>1000/400</li>
-<h4>HFC compatible (if you are in a lucky area)</h4>
+<h4>HFC</h4>
 <li>1000/50 = 833</li>
 <li>400/50 = 837</li>
 <li>250/25 = 831</li>
@@ -38,6 +38,13 @@ The PSID is what actually changes the speed. Psid/Sid is the order number in Lau
 <h4>Fixed Wireless</h4>
 <li>FW25/5 = 812</li>
 <li>FW+75/10 = 821</li>
+<h4>FTTC</h4>
+<li>100/40 = 820</li>
+<li>100/20 = 828</li>
+<li>nbn50 = 819</li>
+<li>nbn25 = 818</li>
+<h4>FTTB</h4>
+
 $psid = ""
 
 <h2>How to get the info</h2>
