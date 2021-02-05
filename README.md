@@ -24,10 +24,13 @@ This is the part that needs to change between the weekday version and the weeken
 <h3>PSID</h3>
 The PSID is what actually changes the speed. Psid/Sid is the order number in Launtel's database.
 <h4>FTTP</h4>
-<li>250/100</li>
-<li>500/200</li>
-<li>1000/400</li>
-
+<li>1000/400 = 803</li>
+<li>1000/50 = 800</li>
+<li>500/200 = 1051</li>
+<li>250/100 = 777</li>
+<li>100/40 = 774</li>
+<li>nbn50 = 776</li>
+<li>nbn25 = 775</li>
 <h4>HFC</h4>
 <li>1000/50 = 833</li>
 <li>400/50 = 837</li>
