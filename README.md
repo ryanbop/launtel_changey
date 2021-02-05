@@ -23,6 +23,11 @@ $location_id = "LOC123456789012"
 This is the part that needs to change between your weekend and weekday script, if you do it with two seperate ps1 files in task scheduler (alternativly, you could def's do it with and if statement and `Get-Date`). 
 <h3>PSID</h3>
 The PSID is what actually changes the speed. Psid/Sid is the order number in Launtel's database.
+<h4>FTTP</h4>
+<li>250/100</li>
+<li>500/200</li>
+<li>1000/400</li>
+<h4>HFC compatible (if you are in a lucky area)</li>
 <li>1000/50 = 833</li>
 <li>400/50 = 837</li>
 <li>250/25 = 831</li>
@@ -30,7 +35,7 @@ The PSID is what actually changes the speed. Psid/Sid is the order number in Lau
 <li>100/20 = 829</li>
 <li>nbn50 = 824</li>
 <li>nbn25 = 823</li>
-Fixed Wireless
+<h4>Fixed Wireless</h4>
 <li>FW25/5 = 812</li>
 <li>FW+75/10 = 821</li>
 $psid = ""
