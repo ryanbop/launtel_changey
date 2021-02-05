@@ -10,13 +10,13 @@ $password = "" #Yes I know that I am storing the password in plain text. BUT, th
 
 <h2>NBNCo Variables</h2>
 <h3>Service ID</h3>
-This is a 5 digit number (or at least mine is)
+This is a 5 digit number (or at least mine is)<br>
 $service_id = "12345"
 <h3>AVC ID</h3>
-This is your Active Virtual Circuit ID. I believe this links to your nbn Modem.
+This is your Active Virtual Circuit ID. I believe this links to your nbn Modem.<br>
 $avc_id = "AVC123456789012"
 <h3>Location ID</h3>
-This is your location ID, it links to your physical property?
+This is your location ID, it links to your physical property?<br>
 $location_id = "LOC123456789012"
 
 <h2>This is important</h2>
@@ -31,10 +31,10 @@ The PSID is what actually changes the speed. Psid/Sid is the order number in Lau
 $psid = ""
 
 <h2>How to get the info</h2>
-Navigate to <a href="https://residential.launtel.net.au/services">https://residential.launtel.net.au/services</a> and sign in
-Then click the "Modify Service" button
-Choose a speed tier (e.g. nbn50) and press "Looks great - update it!"
-On this page pay careful attention to the url as it contains all the information you'll need for the variables (execpt your username and password).
+Navigate to <a href="https://residential.launtel.net.au/services">https://residential.launtel.net.au/services</a> and sign in<br>
+Then click the "Modify Service" button<br>
+Choose a speed tier (e.g. nbn50) and press "Looks great - update it!"<br>
+On this page pay careful attention to the url as it contains all the information you'll need for the variables (execpt your username and password).<br>
   The URL should look similar to this <a href="https://residential.launtel.net.au/confirm_service?psid=$($psid)&unpause=0&service_id=$($service_id)&upgrade_options=&avcid=$($avc_id)&locid=$($location_id)">"https://residential.launtel.net.au/confirm_service?psid=$($psid)&unpause=0&service_id=$($service_id)&upgrade_options=&avcid=$($avc_id)&locid=$($location_id)"</a>
 
 <h1>So, In the end you'll have</h1>
