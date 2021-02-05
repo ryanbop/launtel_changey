@@ -69,7 +69,7 @@ DO NOT CLICK CONFIRM!
 <li>$Service_ID = "12345"</li>
 <li>$AVC_ID = "AVC123456789012"</li>
 <li>$Location_ID = "LOC123456789012"</li>
-<li>$PSID = 824</li>
+<li>$PSID = "824"</li>
 and..
 <li>$username</li>
 <li>$password</li>
