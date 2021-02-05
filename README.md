@@ -31,11 +31,11 @@ The PSID is what actually changes the speed. Psid/Sid is the order number in Lau
 $psid = ""
 
 <h2>How to get the info</h2>
-Navigate to <a href="https://residential.launtel.net.au/services"> and sign in
+Navigate to <a href="https://residential.launtel.net.au/services">https://residential.launtel.net.au/services</a> and sign in
 Then click the "Modify Service" button
 Choose a speed tier (e.g. nbn50) and press "Looks great - update it!"
 On this page pay careful attention to the url as it contains all the information you'll need for the variables (execpt your username and password).
-  The URL should look similar to this "https://residential.launtel.net.au/confirm_service?psid=$($psid)&unpause=0&service_id=$($service_id)&upgrade_options=&avcid=$($avc_id)&locid=$($location_id)"
+  The URL should look similar to this <a href="https://residential.launtel.net.au/confirm_service?psid=$($psid)&unpause=0&service_id=$($service_id)&upgrade_options=&avcid=$($avc_id)&locid=$($location_id)">"https://residential.launtel.net.au/confirm_service?psid=$($psid)&unpause=0&service_id=$($service_id)&upgrade_options=&avcid=$($avc_id)&locid=$($location_id)"</a>
 
 <h1>So, In the end you'll have</h1>
 <li>$Service_ID</li>
