@@ -23,6 +23,8 @@ $location_id = "LOC123456789012"
 This is the part that needs to change between your weekend and weekday script, if you do it with two seperate ps1 files in task scheduler (alternativly, you could def's do it with and if statement and `Get-Date`). 
 <h3>PSID</h3>
 The PSID is what actually changes the speed. Psid/Sid is the order number in Launtel's database. Unfortunealty, I can only provide the numbers for speeds up to 250/25 or 20.
+<li>1000/50 = 833</li>
+<li>400/50 = 837</li>
 <li>250/25 = 831</li>
 <li>100/40 = 822</li>
 <li>100/20 = 829</li>
