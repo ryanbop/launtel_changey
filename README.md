@@ -16,7 +16,7 @@ $password = "" #Yes I know that I am storing the password in plain text. BUT, th
 This should a 5 digit number.<br>
 $service_id = "12345"
 <h3>AVC ID</h3>
-This is your Active Virtual Circuit ID. I believe this links to your NBN Modem.<br>
+This is your Active Virtual Circuit ID. I believe this links to your NBN Modem. Info from Launtel: The AVC is an individual connection ID that stands for active virtual circuit. You are sort of correct in saying it "links" to your NBN gear, it is used in concert with the LOCID (Location ID) to provide a service with a unique ID on a port at a location. <a href="https://kb.launtel.net.au/en/software/launtel_nbn/nbn_glossary">More Info (thanks to "Agent-Squirrel")</a><br>
 $avc_id = "AVC123456789012"
 <h3>Location ID</h3>
 This is your location ID, it links to your physical property?<br>
