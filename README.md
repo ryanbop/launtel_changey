@@ -1,4 +1,4 @@
-There is currently an issue where the websession isn't being "kept". If your second webrequest is only ~13000 long, it means the second request is on loading the logon page. (6/2/21)
+This has all been tested on HFC, if you have another tech type please test and let me know the results (@Bope#6914 on the discord). :)
 
 
 # launtel_changey
