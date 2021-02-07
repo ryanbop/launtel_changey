@@ -1,4 +1,4 @@
-This has all been tested on HFC, if you have another tech type please test and let me know the results (@Bope#6914 on the discord). :)
+This has all been tested on Fixed Wireless and Hybird Fibre Coxial, if you have another tech type please test and let me know the results (@Bope#6914 on the discord). :)
 
 
 # launtel_changey
