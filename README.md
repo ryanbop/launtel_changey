@@ -9,7 +9,7 @@ This has all been tested on Fixed Wireless and Hybird Fibre Coxial, if you have 
 changey is now a word :>
 
 # Checkout the Wiki
-<a href="https://github.com/ryanbop/launtel_changey/wiki">https://github.com/ryanbop/launtel_changey/wiki</a><br><br><br><br><br><br><br><br><br><br>
+<a href="https://github.com/ryanbop/launtel_changey/wiki">https://github.com/ryanbop/launtel_changey/wiki</a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 #Old Info
 <h1>Gather Information</h1>
 For all this to work you will need to supply the following information, some of this comes from you the rest comes from NBNCo (which can be gathered through Launtel).
