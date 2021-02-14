@@ -1,9 +1,16 @@
+# Notes
+
+This is in no way shape or form condoned by Launtel, this is a third party project. Therefore it could stop working at any point in time. 
+
 This has all been tested on Fixed Wireless and Hybird Fibre Coxial, if you have another tech type please test and let me know the results (@Bope#6914 on the discord). :)
 
 
 # launtel_changey
 changey is now a word :>
 
+# Checkout the Wiki
+<a href="https://github.com/ryanbop/launtel_changey/wiki">https://github.com/ryanbop/launtel_changey/wiki</a><br><br><br><br><br><br><br><br><br><br>
+#Old Info
 <h1>Gather Information</h1>
 For all this to work you will need to supply the following information, some of this comes from you the rest comes from NBNCo (which can be gathered through Launtel).
 
