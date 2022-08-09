@@ -1,3 +1,5 @@
+This is probably dead now. I'm no longer a Launtel custoemr as I've moved house ;(. RIP Launtel was Amazing.
+
 # Notes
 
 This is in no way shape or form condoned by Launtel, this is a third party project. Therefore it could stop working at any point in time. 
