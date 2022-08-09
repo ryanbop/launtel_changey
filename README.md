@@ -1,4 +1,4 @@
-This is probably dead now. I'm no longer a Launtel custoemr as I've moved house ;(. RIP Launtel was Amazing.
+This is probably dead now. I'm no longer a Launtel customer as I've moved house ;(. RIP Launtel was Amazing.
 
 # Notes
 
